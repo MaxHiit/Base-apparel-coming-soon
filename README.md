@@ -10,7 +10,6 @@ This is the code for the challenge called base apparel coming soon page of Front
 
 - HTML5
 - SASS
-- JS
 
 ## Author
 
